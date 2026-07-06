@@ -1,28 +1,26 @@
-# 🏧 ATM Machine Simulation 
-
-## 📌 Badges
+# ATM Machine Simulation 
 ![Python](https://img.shields.io/badge/Python-OOP-blue)
 ![Status](https://img.shields.io/badge/Project-Completed-green)
 ![Level](https://img.shields.io/badge/Level-Beginner-orange)
 
-## 📌 About The Project
+## About The Project
 A simple ATM Machine project developed using **Python** and **Object-Oriented Programming (OOP)**. This application simulates the core functionalities of an ATM, including PIN authentication, deposits, withdrawals, balance inquiry, and transaction history with proper exception handling.
 
 ---
 
-## 📌 Features
+##  Features
 
-- 🔐 Secure PIN Authentication
-- 💰 Deposit Money
-- 💸 Withdraw Money
-- 📊 Check Account Balance
-- 📝 View Transaction History
-- ⚠️ Exception Handling
-- 🧹 Clean and Modular OOP Design
+-  Secure PIN Authentication
+-  Deposit Money
+-  Withdraw Money
+-  Check Account Balance
+-  View Transaction History
+-  Exception Handling
+-  Clean and Modular OOP Design
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python 3
 - Object-Oriented Programming (OOP)
@@ -45,7 +43,7 @@ ATM-Machine/
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone this repository
 
@@ -66,21 +64,21 @@ python atm.py
 ```
 
 ---
-## 📸 Project Screenshots
+##  Project Screenshots
 
-### 🔐 Login Screen
+###  Login Screen
 ![Login](login.png)
 
-### 🏧 ATM Menu
+###  ATM Menu
 ![Menu](menu.png)
 
-### 💰 Deposit Money
+###  Deposit Money
 ![Deposit](deposit.png)
 
-### 💸 Withdraw Money
+###  Withdraw Money
 ![Withdraw](withdraw.png)
 
-### 📝 Transaction History
+###  Transaction History
 ![History](history.png)
 ---
 ## 💡 Key Learning
@@ -91,23 +89,23 @@ python atm.py
 - Real-world project structuring
 ---
 
-## 📈 Future Enhancements
+##  Future Enhancements
 
-- 👥 Multiple User Accounts
-- 🗄️ Database Integration (SQLite/MySQL)
-- 🖥️ GUI using Tkinter
-- 🔒 Encrypted PIN Storage
-- 🧾 Receipt Generation
+-  Multiple User Accounts
+-  Database Integration (SQLite/MySQL)
+-  GUI using Tkinter
+-  Encrypted PIN Storage
+-  Receipt Generation
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Feel free to fork this repository, improve the project, and submit a pull request.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Lakshmi Chauhan**  
 Python Developer | OOP Learner  
@@ -115,4 +113,4 @@ Python Developer | OOP Learner
 
 ---
 
-⭐ If you like this project, don't forget to give it a star ⭐ on GitHub!
+ If you like this project, don't forget to give it a star  on GitHub!
