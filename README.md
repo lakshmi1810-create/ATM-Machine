@@ -113,4 +113,4 @@ Python Developer | OOP Learner
 
 ---
 
- If you like this project, don't forget to give it a star  on GitHub!
+ If you like this project, don't forget to give it a star ⭐  on GitHub!
